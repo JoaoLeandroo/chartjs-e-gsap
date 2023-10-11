@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "chart.js": "^4.4.0",
+    "gsap": "^3.12.2",
+    "next": "13.5.4",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "13.5.4"
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10",
